@@ -1,0 +1,1 @@
+D:\PROYECTOS-LSV\mi-app-tauri\migration\target\debug\libmigration.rlib: D:\PROYECTOS-LSV\mi-app-tauri\migration\src\lib.rs D:\PROYECTOS-LSV\mi-app-tauri\migration\src\m20250902_192406_create_usuario.rs

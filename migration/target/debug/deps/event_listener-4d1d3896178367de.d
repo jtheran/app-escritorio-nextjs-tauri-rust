@@ -1,0 +1,7 @@
+D:\PROYECTOS-LSV\mi-app-tauri\migration\target\debug\deps\event_listener-4d1d3896178367de.d: C:\Users\chris\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\event-listener-5.4.1\src\lib.rs C:\Users\chris\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\event-listener-5.4.1\src\intrusive.rs C:\Users\chris\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\event-listener-5.4.1\src\notify.rs
+
+D:\PROYECTOS-LSV\mi-app-tauri\migration\target\debug\deps\libevent_listener-4d1d3896178367de.rmeta: C:\Users\chris\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\event-listener-5.4.1\src\lib.rs C:\Users\chris\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\event-listener-5.4.1\src\intrusive.rs C:\Users\chris\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\event-listener-5.4.1\src\notify.rs
+
+C:\Users\chris\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\event-listener-5.4.1\src\lib.rs:
+C:\Users\chris\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\event-listener-5.4.1\src\intrusive.rs:
+C:\Users\chris\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\event-listener-5.4.1\src\notify.rs:

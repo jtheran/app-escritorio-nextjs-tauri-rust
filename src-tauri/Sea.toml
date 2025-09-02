@@ -1,0 +1,2 @@
+[sea-orm]
+database-url = "sqlite://../sqlite.db"
